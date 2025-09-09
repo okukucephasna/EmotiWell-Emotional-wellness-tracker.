@@ -1,4 +1,3 @@
-# MindTrack 🧠
 A simple mental wellness companion web app built with **React**, **Flask**, and **PostgreSQL**.  
 MindTrack helps users **track their moods**, **log journal entries**, and receive **personalized coping strategies** to improve emotional well-being.
 
